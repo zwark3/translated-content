@@ -139,6 +139,6 @@ Exercice : Essayez de changer la vitesse de la balle en mouvement ou la directio
 
 ## Prochaines étapes
 
-Nous avons dessiné nottre balle et elle se déplace mais elle ne cesse de disparaître du bord de notre canevas. Dans le troisième chapitre, nous verrons comment [faire rebondir la balle](/fr/docs/Games/Workflows/2D_Breakout_game_pure_JavaScript/Faire_rebondir_la_balle_sur_les_murs) contre les bords.
+Nous avons dessiné notre balle et elle se déplace mais elle ne cesse de disparaître du bord de notre canevas. Dans le troisième chapitre, nous verrons comment [faire rebondir la balle](/fr/docs/Games/Workflows/2D_Breakout_game_pure_JavaScript/Faire_rebondir_la_balle_sur_les_murs) contre les bords.
 
 {{PreviousNext("Games/Workflows/2D_Breakout_game_pure_JavaScript/creer_element_canvas_et_afficher", "Games/Workflows/2D_Breakout_game_pure_JavaScript/Faire_rebondir_la_balle_sur_les_murs")}}
